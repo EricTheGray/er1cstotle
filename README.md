@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://raw.githubusercontent.com/er1cstotle/er1cstotle/master/bbt.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/er1cstotle/er1cstotle/master/bbt.png =250x"Logo Title Text 1")
 
 
 <!--
