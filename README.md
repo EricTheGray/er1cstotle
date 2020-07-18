@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/er1cstotle/er1cstotle/master/bbt.png" width="200"/>
+<div style="text-align:center; width: 100%">
+  <img src="https://raw.githubusercontent.com/er1cstotle/er1cstotle/master/bbt.png" width="200"/>  
+</div>
+  
+
 
 <!--
 **er1cstotle/er1cstotle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
