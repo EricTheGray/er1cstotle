@@ -1,4 +1,6 @@
-### Hi there 👋
+# Welcome to my Github
+
+> Don’t look at my commit messages
 
 <div style="text-align:center; width: 100%">
   <img src="https://raw.githubusercontent.com/er1cstotle/er1cstotle/master/bbt.png" width="200"/>  
