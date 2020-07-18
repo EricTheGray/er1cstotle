@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![alt text](https://raw.githubusercontent.com/er1cstotle/er1cstotle/master/bbt.png "Logo Title Text 1")
+
+
 <!--
 **er1cstotle/er1cstotle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
